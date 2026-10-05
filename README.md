@@ -9,4 +9,4 @@
 
 ## 📫 Bana Ulaşın
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-berkankublay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkankublay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-berkankublay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkan-kublay-1121b9376/)
